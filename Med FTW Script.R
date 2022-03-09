@@ -13,4 +13,4 @@ FTWRefOut.l <- filter(FTWRefOut2, View == "l")#creates subset of lateral views o
 FTWRefOut.d <- filter(FTWRefOut2, View == "d")#creates subset of dorsal views only
 calibrate_harmonicpower_efourier(FTWRefOut.l,nb.h=12)#tells you how many harmonics will be needed to gather x% of harmonic power- here 8= 99%
 calibrate_harmonicpower_efourier(FTWRefOut.d,nb.h=12)#tells you how many harmonics will be needed to gather x% of harmonic power- here 8= 99%
-NeoRefOut.l.efour <- efourier(FTWRefOut.l, nb.h=8, norm = FALSE, start = TRUE)
+FTWRefOut.l.efour <- efourier(FTWRefOut.l, nb.h=8, norm = FALSE, start = TRUE)
