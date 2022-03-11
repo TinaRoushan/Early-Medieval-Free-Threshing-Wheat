@@ -1,6 +1,3 @@
-packageurl <- "https://cran.r-project.org/src/contrib/Archive/Momocs//Momocs_1.2.9.tar.gz"
-install.packages(packageurl, repos=NULL, type="source")
-packageVersion('Momocs')
 library('Momocs')
 #Adding modern reference outlines 
 FTWRefCoords <- list.files("D:\\Coordinates\\Free Threshing\\FeedSax_Ref", full.names = TRUE)
