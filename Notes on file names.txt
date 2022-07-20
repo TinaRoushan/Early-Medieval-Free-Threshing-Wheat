@@ -1,0 +1,20 @@
+
+Modern Reference Data 
+FTW _Method_Test/MethodTest_FTW.csv= Charred modern grains of T. aestivum from single ear each photographed five times 
+Uncharred.01/Uncharred_Frame_FT.csv= Uncharred modern reference dataset of bread, durum and rivet wheat
+Charred.02/Charred_Frame_FT.csv= Charred modern reference dataset of bread, durum and rivet wheat
+Charred_Compactum/Charred_Frame_FT2.csv= Charred modern reference dataset of bread, club, durum and rivet wheat (dorsal and lateral views only) 
+FeedSax_Ref/Charred_Frame_FeedSax_Ref.csv= Final charred modern reference dataset of bread, club, durum and rivet wheat (dorsal + lateral views)- one durum accession replaced
+FeedSax_Ref_Germ.Charred_Frame/Charred_Frame_FeedSax_Ref_Germ.csv= 'Final' modern reference dataset but with experimentally germinated grains added
+
+
+Archaeological Data
+
+FeedSax_All/FeedSax_All.csv= All archaeological grains analysed across study from FeedSax sites
+Unclassified/Unclassified3.csv= Files into which to drop archaeological data for comparison (here Houghton is used as an example) 
+
+Combined Data
+
+FeedSax_Ref_Comparison/Charred_Frame_FeedSax_Ref_Comparison.csv= Version of FeedSax_Ref to which archaeological data can be added to compare alongside (here using Houghton as example)
+
+
